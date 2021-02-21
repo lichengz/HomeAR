@@ -1,53 +1,119 @@
 {
-    "m_SelectedDeviceId": "2e4f3be6",
+    "m_SelectedDeviceId": "D3H7N18105019597",
     "m_SelectedPackage": {
-        "deviceId": "2e4f3be6",
-        "name": "com.DefaultCompany.HomeAR",
-        "processId": 3601,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "2e4f3be6",
-            "name": "com.DefaultCompany.ReadQRCode",
-            "processId": 13585,
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 4738,
             "exited": true
         },
         {
             "deviceId": "2e4f3be6",
             "name": "com.DefaultCompany.HomeAR",
-            "processId": 28539,
+            "processId": 13632,
             "exited": true
         },
         {
             "deviceId": "2e4f3be6",
             "name": "com.DefaultCompany.HomeAR",
-            "processId": 29371,
+            "processId": 15367,
             "exited": true
         },
         {
             "deviceId": "2e4f3be6",
             "name": "com.DefaultCompany.HomeAR",
-            "processId": 31160,
+            "processId": 15975,
             "exited": true
         },
         {
             "deviceId": "2e4f3be6",
             "name": "com.DefaultCompany.HomeAR",
-            "processId": 32657,
+            "processId": 22250,
             "exited": true
         },
         {
             "deviceId": "2e4f3be6",
             "name": "com.DefaultCompany.HomeAR",
-            "processId": 3601,
+            "processId": 25154,
+            "exited": false
+        },
+        {
+            "deviceId": "2e4f3be6",
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 26518,
+            "exited": false
+        },
+        {
+            "deviceId": "2e4f3be6",
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 27510,
+            "exited": false
+        },
+        {
+            "deviceId": "2e4f3be6",
+            "name": "com.defaultcompany.homear",
+            "processId": 6563,
+            "exited": false
+        },
+        {
+            "deviceId": "2e4f3be6",
+            "name": "com.defaultcompany.homear",
+            "processId": 7179,
+            "exited": false
+        },
+        {
+            "deviceId": "2e4f3be6",
+            "name": "com.defaultcompany.homear",
+            "processId": 8961,
             "exited": false
         },
         {
             "deviceId": "RFCNA0ATWHX",
             "name": "com.DefaultCompany.ReadQRCode",
             "processId": 5370,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0ATWHX",
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 29018,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0ATWHX",
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 29938,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0ATWHX",
+            "name": "com.DefaultCompany.HomeAR",
+            "processId": 4448,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0ATWHX",
+            "name": "com.defaultcompany.homear",
+            "processId": 14736,
+            "exited": false
+        },
+        {
+            "deviceId": "D3H7N18105019597",
+            "name": "com.defaultcompany.homear",
+            "processId": 3808,
+            "exited": false
+        },
+        {
+            "deviceId": "D3H7N18105019597",
+            "name": "com.defaultcompany.homear",
+            "processId": 5471,
             "exited": false
         }
     ],
